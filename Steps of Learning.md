@@ -4,4 +4,4 @@
 
 课程主页：https://www.coursera.org/learn/machine-learning
 
-学习笔记：https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89.pdf
+个人博客、笔记：https://blog.csdn.net/weixin_42533852
