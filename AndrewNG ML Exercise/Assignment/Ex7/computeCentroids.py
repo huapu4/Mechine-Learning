@@ -7,14 +7,6 @@ def compute_centroids(X, idx, K):
 
     # You need to return the following variable correctly.
     centroids = np.zeros((K, n))
-
-    # ===================== Your Code Here =====================
-    # Instructions: Go over every centroid and compute mean of all points that
-    #               belong to it. Concretely, the row vector centroids[i]
-    #               should contain the mean of the data points assigned to
-    #               centroid i.
-    #
-    # ==========================================================
     
     for k in range(K):
         k_x = X[np.where(idx == k)]
